@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AduinoCarPc</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="widget_name">CarTemp</string>
+	<string name="widget_text">Disconnect</string>
+	<string name="update">Update</string>
+
+</resources>
